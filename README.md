@@ -49,6 +49,6 @@ This repository contains the official digital storefront for Omni-Growth. It is 
 *   **Studio Name:** Omni-Growth
 *   **Founder & Lead:** Sumaira Urooj Fatima
 *   **Direct WhatsApp:** +92 311 5891162
-*   **Email:** contact@omni-growth.com
+*   **Email:** shahbazmohal41@gmail.com
 
 *Designed & Engineered in-house by the Omni-Growth Team.*
